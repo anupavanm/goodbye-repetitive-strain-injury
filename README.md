@@ -1,1 +1,1 @@
-# :facepunch: Say GoodBye to RSI
+# :facepunch: Say goodbye to RSI
