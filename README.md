@@ -1,7 +1,15 @@
 ## :facepunch: Say goodbye to RSI ##
 
-*I wrestled with wrist pain for about a year. I was blaming my PC mouse and frequent use of a computer as a primary cause. I have done all the necessary corrections, bought a new ergonomic mouse, adjusted table and monitor height, took frequent breaks (including stretching my wrist and fingers). I also took plenty of supplements (magnesium, B-complex, Bromelain). The pain just lowered a bit but sustained.*
+As Software Developers, we spend much our time glued to a computer developing the software to run this world. Often we neglect ourselves and some of us suffer in constant chronic pain (hand/back/wrist/hips etc.) ultimately leading to reduced productivity. some of us may fear it might permanently ruin hapiness and probably livelihood as well :fearful:.
 
-*dealing with crippling hand pain for weeks. It would build throughout the day and by the time the sun went down, I could do nothing except sit in my chair with ice on my hands and watch TV. As someone who makes his living programming computers and enjoys recreationally lifting weights, cooking, and other activities associated with "repetitive strain injury," naturally I was deeply concerned that I had somehow permanently injured my hands. Was this going to permanently ruin my happiness and probably my livelihood as well?*
-
-*I suffered from nagging back and neck pain, debilitating chronic headaches and a frustrating case of TMJ - all sorts of aches and pains - from my teen years to late 20s, despite being young and healthy. Like many, I tried all conventional treatment to no avail and thought my body was broken.*
+We blame everything  on PC mouse/keyboard and frequent use of a computer :computer: as a primary cause. We do all the necessary corrections to relieve ourselves from pain
+ * Buying a new ergonomic mouse, keyboard, adjustable table
+ * Take frequent breaks (including stretching my wrist and fingers). 
+ * Even take plenty of supplements (magnesium, B-complex, Bromelain).
+ * Stop playing video games after work
+ * Sit in chair with ice on hands and watch TV for hours :clock830:
+ 
+**Despite doing all these changes to ur lifestyle, the pain just lowers a bit. Never gets cured permanently :exclamation:**
+And then your pain gets back within a short span of using the computer. Finally we realize our brain has a global constant in memory ```const Typing = "PAIN"```
+```const LeftClick = "PAIN"```
+```const RightClick = "PAIN"```
