@@ -8,13 +8,26 @@ We blame everything  on PC mouse/keyboard and frequent use of a computer :comput
  * Even take plenty of supplements (magnesium, B-complex, Bromelain).
  * Stop playing video games after work
  * Sit in chair with ice on hands and watch TV for hours :clock830:
+ * Visit chiropractor
+ * Surgery :worried:
  
-**Despite doing all these changes to ur lifestyle, the pain just lowers a bit. Never gets cured permanently :exclamation:**
-And then your pain gets back within a short span of using the computer.
+**After spending lot of money doing all these changes to ur lifestyle, the pain just lowers a bit. Never gets cured permanently :exclamation:**
+And then our pain gets back within a short span of using the computer. 
 ```
-\\\Finally we realize our brain has a global constants in memory
+\\Finally we realize our brain has a global constants in memory
 const Typing = "PAIN"
 const LeftClick = "PAIN"
 const RightClick = "PAIN"
+\\These associations won't change even if we switch hands...
 
 ```
+Does this have a permanent cure ?
+#### Yes. ####
+What's that?
+#### Knowledge is Cure #### 
+I'm not kidding. Understanding the real reason(not the physical reason) for our pains definetly cures it. 
+
+Have your heard about TMS (Tension Myositis Syndrome), Don't get scared with this Big Word. Once we understand what TMS is and find out the real reason for our pains, we can definelty get rid of the pain.
+
+*TMS is a condition that causes real physical symptoms that are not due to pathological or structural abnormalities and are not explained by diagnostic tests. In TMS, symptoms are caused by psychological stress.*
+https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
