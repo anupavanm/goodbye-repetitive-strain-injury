@@ -10,6 +10,11 @@ We blame everything  on PC mouse/keyboard and frequent use of a computer :comput
  * Sit in chair with ice on hands and watch TV for hours :clock830:
  
 **Despite doing all these changes to ur lifestyle, the pain just lowers a bit. Never gets cured permanently :exclamation:**
-And then your pain gets back within a short span of using the computer. Finally we realize our brain has a global constant in memory ```const Typing = "PAIN"```
-```const LeftClick = "PAIN"```
-```const RightClick = "PAIN"```
+And then your pain gets back within a short span of using the computer.
+```
+\\\Finally we realize our brain has a global constants in memory
+const Typing = "PAIN"
+const LeftClick = "PAIN"
+const RightClick = "PAIN"
+
+```
