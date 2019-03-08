@@ -22,13 +22,32 @@ const RightClick = "PAIN"
 \\These associations won't change even if we switch hands...
 
 ```
+
+***Note:*** I'm not a doctor/research fellow, just a software developer like you, doing 8 hour shifts sitting infront of a dual monitor setup on a comfy chair, sometimes standing at a adjustable desk. Take the contnet of this article with caution.
+
 Does this have a permanent cure ?
 #### Yes. ####
 What's that?
 #### Knowledge is the Cure #### 
 I'm not kidding. Understanding the real reason(not the physical reason) for our pains definetly cures it. 
 
-Have your heard about TMS (Tension Myositis Syndrome), Don't get scared with this Big Word. Once we understand what TMS is and find out the real reason for our pains, we can definelty get rid of the pain.
+Stop for a second and think,
+* Does pain increases if you are in lot of stress either at work/home ?
+* Do you feel pain within a short span after you start typing ?
+* Do you start thinking about pain even before you start your work ?
+* Do you have a moment in the day where you thought,this pain might permanently ruin hapiness and probably livelihood.
+
+In fact, ***There is nothing to worry about this pain though*** (I know what your thinking !!!!!!! ). 
+Pain is very real and so your problems. 
+This pain keeps increasing exponentially when you start thinking about it every moment of your life.
+
+#### pain = daytodayStress * fear<sup>2</sup> ####
+
+If you are in Mid-20's or 30's wihout having any significant health issues except this pain when wokring on a computer, I think you are in the right spot !  
+
+This pain is just caused by a slight reduction of blood flow to your hands, which can be easily cured by gaining some information & change your thinking about pain.
+
+Have your heard about TMS (Tension Myositis Syndrome) ?, Don't get scared with this Big Word. Once we understand what TMS is and find out the real reason for our pains, we can definelty get rid of the pain. We can inturn use pain to find the disturbing problems that our conscious brain is trying to hide.
 
 *TMS is a condition that causes real physical symptoms that are not due to pathological or structural abnormalities and are not explained by diagnostic tests. In TMS, symptoms are caused by psychological stress.*
 https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
