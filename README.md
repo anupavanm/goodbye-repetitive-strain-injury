@@ -36,7 +36,9 @@ https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
 #### Watch this video to clearly understand what causes your pain ####
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/vsR4wydiIBI/hqdefault.jpg)](https://www.youtube.com/watch?v=vsR4wydiIBI "Dr. John E Sarno - 20/20 Segment")
 
-*Sarno tells people that they're causing their own pain unconsciously of course he says it's the brains reaction to stress or anger or fear rather than face the anger the brain redirects you're at by reducing the blood flow to certain parts of the body that causes pain and that pain in your back or neck or ankle or wrist  wherever distracts your mind from the rage or unacceptable feeling.*
+#### Important piece from the transcript ####
+*Sarno tells people that they're causing their own pain unconsciously.
+of course he says it's the brains reaction to stress or anger or fear rather than face the anger the brain redirects you're at by ***reducing the blood flow to certain parts of the body that causes pain*** and that pain in your back or neck or ankle or wrist  wherever distracts your mind from the rage or unacceptable feeling.*
 ***your brain actually thinks it's doing you a favor by doing this by distracting you from what you really don't want to think about***
 
 After learning the background about TMS, figuring out that most of us suffer from TMS is neither Rocket :rocket: Science nor complicated as understanding this Partial Differential Equation
