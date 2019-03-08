@@ -35,29 +35,10 @@ https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/vsR4wydiIBI/hqdefault.jpg)](https://www.youtube.com/watch?v=vsR4wydiIBI "Dr. John E Sarno - 20/20 Segment")
 
-https://www.youtube.com/watch?v=wqtPNy18VvA&t=1s
-
 Figuring out that most of us suffer from TMS is neither Rocket Science nor complicated as understanding this Partial Differential Equation
 
 ![picture alt](https://wikimedia.org/api/rest_v1/media/math/render/svg/eb5c0e5ac47c86805713f6143d03bd564cbbf2a1 "PDE")
 
-``` Sarno tells people that they're causing
-their own pain unconsciously of course
-he says it's the brains reaction to
-stress or anger or fear rather than face
-the anger the brain redirects you're at
-by reducing the blood flow to certain
-parts of the body that causes pain and
-that pain in your back or neck or ankle
-or wherever distracts your mind from the
-rage or unacceptable feelings that's
-what you should have Fame acts like a
-lid yes that's right this rage is sort
-of knocking at the door it's trying to
-come out now this is hard to believe so
-I'm in such a rage about something that
-I making myself suffer but don't you see
-your brain actually thinks it's doing
-you a favor by doing this by distracting
-me from what I really don't want to
-think about ```
+*Sarno tells people that they're causing their own pain unconsciously of course he says it's the brains reaction to stress or anger or fear rather than face the anger the brain redirects you're at by reducing the blood flow to certain parts of the body that causes pain and that pain in your back or neck or ankle or wherever distracts your mind from the rage or unacceptable feelings that's what you should have.
+
+Fame acts like a lid yes that's right this rage is sort of knocking at the door it's trying to come out now this is hard to believe so I'm in such a rage about something that I making myself suffer but don't you see your brain actually thinks it's doing you a favor by doing this by distracting me from what I really don't want to think about*
