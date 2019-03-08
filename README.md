@@ -33,9 +33,9 @@ Have your heard about TMS (Tension Myositis Syndrome), Don't get scared with thi
 *TMS is a condition that causes real physical symptoms that are not due to pathological or structural abnormalities and are not explained by diagnostic tests. In TMS, symptoms are caused by psychological stress.*
 https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
 
-https://www.youtube.com/watch?v=wqtPNy18VvA&t=1s
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/vsR4wydiIBI/hqdefault.jpg)](https://www.youtube.com/watch?v=vsR4wydiIBI "Dr. John E Sarno - 20/20 Segment")
 
+https://www.youtube.com/watch?v=wqtPNy18VvA&t=1s
 
 Figuring out that most of us suffer from TMS is neither Rocket Science nor complicated as understanding this Partial Differential Equation
 
