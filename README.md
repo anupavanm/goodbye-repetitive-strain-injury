@@ -41,7 +41,7 @@ In fact, ***There is nothing to worry about this pain though*** (I know what you
 Pain is very real and so your problems. 
 This pain keeps increasing exponentially when you start thinking about it every moment of your life.
 
-#### pain = daytodayStress * fear<sup>2</sup> ####
+#### pain = daytodayStress * (1 + fear<sup>2</sup>) ####
 
 If you are in Mid-20 or 30's without having any significant health issues except this pain when working on a computer, I think you are in the right spot!  
 
