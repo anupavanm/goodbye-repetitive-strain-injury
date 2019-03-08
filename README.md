@@ -88,6 +88,7 @@ In Healing Back Pain, Dr. Sarno writes: Perhaps the most important (but most dif
 
 ##### Interact with Other TMS Peers #####
 Hearing how other people recovered from TMS can be very helpful in your own recovery. This can be anything from posting in our forum to attending a lecture by a TMS doctor. Our organization hosts a number of events for peers including: a weekly TMS discussion group and drop-in chat, in-person support groups, and TMS webinars. Learning from people who have been there will help you gain a better understanding of this syndrome.
+ * http://www.tmswiki.org/forum/
 
 ##### Journal/List making #####
 Identifying and understanding what factors are fueling your symptoms is key. Many people have reported that writing about past and present events, as well as their emotions, has been particularly helpful in reducing their symptoms. Simply making a list of events and circumstances that may be creating repressed anger and rage has been enough for some people to recover. Dr. Sarno says you don't even need to solve a problem you have repressed. It is enough to identify it and tell your unconscious mind that it is what you have repressed and that is causing your pain.
