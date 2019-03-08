@@ -4,8 +4,9 @@ As Software Developers, we spend much our time glued to a computer developing th
 
 We blame everything  on PC mouse/keyboard and frequent use of a computer :computer: as a primary cause. We do all the necessary corrections to relieve ourselves from pain
  * Buying a new ergonomic mouse, keyboard, adjustable table
- * Take frequent breaks (including stretching my wrist and fingers). 
+ * Take frequent breaks (including stretching wrist and fingers). 
  * Even take plenty of supplements (magnesium, B-complex, Bromelain).
+ * Programming/Installing the software that minimizes typing or mouse clicks :point_up_2:
  * Stop playing video games after work
  * Sit in chair with ice on hands and watch TV for hours :clock830:
  * Visit chiropractor
@@ -32,5 +33,6 @@ Have your heard about TMS (Tension Myositis Syndrome), Don't get scared with thi
 *TMS is a condition that causes real physical symptoms that are not due to pathological or structural abnormalities and are not explained by diagnostic tests. In TMS, symptoms are caused by psychological stress.*
 https://www.tmswiki.org/ppd/An_Introduction_to_Tension_Myositis_Syndrome_(TMS)
 
-Figuring out that we have TMS is neither Rocket Science nor Understanding this Partial Differential Equation
+Figuring out that most of us suffer from TMS is neither Rocket Science nor complicated as understanding this Partial Differential Equation
+
 ![picture alt](https://wikimedia.org/api/rest_v1/media/math/render/svg/eb5c0e5ac47c86805713f6143d03bd564cbbf2a1 "Title is optional")
