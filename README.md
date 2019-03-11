@@ -6,11 +6,11 @@ We blame everything  on PC mouse/keyboard and frequent use of a computer as a pr
  * Buying a new ergonomic mouse, keyboard, adjustable table
  * Take frequent breaks (including stretching wrist and fingers). 
  * Even take plenty of supplements (magnesium, B-complex, Bromelain).
- * Programming/Installing the software that minimizes typing or mouse clicks :point_up_2:
+ * Programming/Installing the software that minimizes typing or mouse clicks
  * Stop playing video games after work
- * Sit in chair with ice on hands and watch TV for hours :clock830:
+ * Sit in chair with ice on hands and watch TV for hours
  * Visit chiropractor
- * Surgery :worried:
+ * Surgery
  
 **After spending lot of money doing all these changes to your lifestyle, the pain just lowers a bit. Never gets cured permanently**
 Then our pain gets back within a short span of using the computer. 
